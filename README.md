@@ -55,7 +55,7 @@ In this json data, default values are defined first and then keys and values are
 
 You have to define flavor to be used in this plugin.
 
-```json
+```groovy
 android {
     productFlavors {
         beta {}
